@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Will/OneDrive/Year 3 Uni/Semester 2/CP2/bigint/Bigint.cpp
+Bigint.h
+C:/Users/Will/OneDrive/Year 3 Uni/Semester 2/CP2/bigint/Bigint.h
+iostream
+-
+utility
+-
+
+C:/Users/Will/OneDrive/Year 3 Uni/Semester 2/CP2/bigint/Bigint.h
+iostream
+-
+utility
+-
+
+C:/Users/Will/OneDrive/Year 3 Uni/Semester 2/CP2/bigint/main.cpp
+iostream
+-
+sstream
+-
+stack
+-
+Bigint.h
+C:/Users/Will/OneDrive/Year 3 Uni/Semester 2/CP2/bigint/Bigint.h
+
